@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wuxahy3w2tqkmtc7g51jc3lju7k88kh1cq87wn6j&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="cabdiaziz" /> </p>
 
-- 🌱 I’m currently learning **nextjs,nestjs,typeScript,flutter**
+- 🌱 I’m currently learning **Nextjs,TailwindCss,TypeScript**
 
 - 💬 Ask me about **nodejs,epxress,mongodb,javaScript**
 
