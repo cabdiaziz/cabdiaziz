@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Nextjs,TailwindCss,TypeScript**
 
-- 💬 Ask me about **nodejs,epxress,mongodb,javaScript**
+- 💬 Ask me about **nodejs,epxress,mongodb,javaScript,React**
 
 - 📫 How to reach me **abdiaziiz1856@gmail.com**
 
