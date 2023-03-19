@@ -1,6 +1,6 @@
 ![social header for cabdiaziz](https://github.com/cabdiaziz/cabdiaziz/blob/89ff3b2097972a19c37a012e5d65b2b6ef01c96e/images/github-header-image%20.png)
 <h1 align="center">Hi 👋, I'm Abdiaziz</h1>
-<h3 align="center">Backend developer</h3>
+<h3 align="center">Fullstack developer</h3>
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47wuxahy3w2tqkmtc7g51jc3lju7k88kh1cq87wn6j&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cabdiaziz&label=Profile%20views&color=0e75b6&style=flat" alt="cabdiaziz" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **nodejs,epxress,mongodb,javaScript**
 
-- 📫 How to reach me **naadirinho@gmail.com**
+- 📫 How to reach me **abdiaziiz1856@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
